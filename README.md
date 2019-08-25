@@ -1,3 +1,0 @@
-# myproject
-
-hello from jerry
